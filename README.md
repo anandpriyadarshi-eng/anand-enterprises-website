@@ -15,3 +15,8 @@ Responsive single-page website for Anand Enterprises, a wholesale distribution a
 4. Wait for GitHub Pages to publish the site.
 
 Note: This repository version uses a vector logo and a designed hero background. The original storefront photo has not yet been uploaded to this repository.
+
+
+## Landing page assets
+- `assets/storefront-showcase.svg`: lightweight scalable illustrated shop-shelf hero background.
+- `assets/style.css`: responsive layout, hero styling, brand cards, contact sections and mobile styles.
